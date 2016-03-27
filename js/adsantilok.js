@@ -36,7 +36,7 @@ function jAntiBlock() {
     jQuery(function () {
         jQuery(document).ready(function () {
             setTimeout("CekBlok();", 1000);
-            jQuery("body").append('<div id="energysaving"><p><img src="https://lh3.googleusercontent.com/-aucopBKJ9zA/VvWTsdwpy0I/AAAAAAAAD6U/dPl4SVfq-OwqNYTWt0Ip9yZzRFJDweX2wCCo/s600-Ic42/chinochan-ad.png" height="500" width="500" alt="Stop-AdBlock" /></p><div id="copyrightOnlineLeaf">Copyright 2013 <font style="color: #666666;"> DH</font> - All rights reserved</div></div>');
+            jQuery("body").append('<div id="energysaving"><p><img src="https://lh3.googleusercontent.com/-aucopBKJ9zA/VvWTsdwpy0I/AAAAAAAAD6U/dPl4SVfq-OwqNYTWt0Ip9yZzRFJDweX2wCCo/s600-Ic42/chinochan-ad.png" height="500" width="500" alt="Stop-AdBlock" /></p></div>');
         });
     });
 }
