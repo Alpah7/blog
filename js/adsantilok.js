@@ -37,7 +37,7 @@ function jAntiBlock() {
     jQuery(function () {
         jQuery(document).ready(function () {
             setTimeout("CekBlok();", 1000);
-            jQuery("body").append('<div id="energysaving"><img src="https://lh3.googleusercontent.com/-fB-1pUldI2I/VvprOT7WFyI/AAAAAAAAD8M/cfOiclIvvYcDhIQpa4ov29Q3EDNzrRvrACCo/s512-Ic42/chinoads.png" height="500" width="500" alt="Stop-AdBlock" /><div id="copyrightOnlineLeaf">Copyright 2016 <font style="color: #666666;"> LinuxSec</font> - All rights reserved</div></div>');
+            jQuery("body").append('<div id="energysaving"><p><img src="https://lh3.googleusercontent.com/-fB-1pUldI2I/VvprOT7WFyI/AAAAAAAAD8M/cfOiclIvvYcDhIQpa4ov29Q3EDNzrRvrACCo/s512-Ic42/chinoads.png" height="500" width="500" alt="Stop-AdBlock" /></p><div id="copyrightOnlineLeaf">Copyright 2016 <font style="color: #666666;"> LinuxSec</font> - All rights reserved</div></div>');
         });
     });
 }
