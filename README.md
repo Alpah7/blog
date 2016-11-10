@@ -1,3 +1,2 @@
-# blogs
-Script Blogger
-Just my blog script host
+# Blogger Script
+Just stored my blogger script
