@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://www.dropbox.com/s/wofmf2cp0r6mlsl/icomoon.eot?dl=1?yuw92w');
-  src:  url('https://www.dropbox.com/s/wofmf2cp0r6mlsl/icomoon.eot?dl=1?yuw92w#iefix') format('embedded-opentype'),
-    url('https://www.dropbox.com/s/yxpmsjsxzwpd1hs/icomoon.ttf?dl=1?yuw92w') format('truetype'),
-    url('https://www.dropbox.com/s/lwxfqm12h0ebagd/icomoon.woff?dl=1?yuw92w') format('woff'),
-    url('https://www.dropbox.com/s/4tajle33rkhr1i1/icomoon.svg?dl=1?yuw92w#icomoon') format('svg');
+  src:  url('http://zafkiel.droppages.com/icomoon/icomoon.eot?yuw92w');
+  src:  url('http://zafkiel.droppages.com/icomoon/icomoon.eot?yuw92w#iefix') format('embedded-opentype'),
+    url('http://zafkiel.droppages.com/icomoon/icomoon.ttf?yuw92w') format('truetype'),
+    url('http://zafkiel.droppages.com/icomoon/icomoon.woff?yuw92w') format('woff'),
+    url('http://zafkiel.droppages.com/icomoon/icomoon.svg?yuw92w#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
